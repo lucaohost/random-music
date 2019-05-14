@@ -1,3 +1,3 @@
 # random-music
 
-[Random Music](lucaxrl-random-music.netlify.com)
+[Random Music](htttps://www.lucaxrl-random-music.netlify.com)
